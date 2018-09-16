@@ -45,7 +45,7 @@ class Ventana
   }
   fill (250);
    textSize(20);
-   text("¿Quien se cruzara en el camino quien?", 200, 50);     
+   text("¿Quien se cruzara en el camino de quien?", 200, 50);     
    
    textSize(20);
    text("Sans (Underfell)", 50, 120);
